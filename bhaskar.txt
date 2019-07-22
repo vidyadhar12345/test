@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hi this is bhaskar
 he is from hindupur
 
+=======
+hi this is vidyadhar this file is updated for braching
+>>>>>>> amar
